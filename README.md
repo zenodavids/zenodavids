@@ -6,13 +6,13 @@
 
 ### I'm proficient in the following programming languages:
 
-|                          |                        |                          |                                |                         |
-| ------------------------ | ---------------------- | ------------------------ | ------------------------------ | ----------------------- |
-| ![HTML5](html5.png)      | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png)  | ![jQuery](jquery.png)   |
-| HTML5                    | CSS3                   | Javascript               | Typescript                     | jQuery                  |
-| ---------------------    | ---------------------- | ------------------------ | ----------------------------   | ----------------------- |
-|                          |                        |                          |
-| ![MongoDB](mongodb.png)  | ![Node Js](nodejs.png) | ![React Js](reactjs.png) | ![Solidity](solidity.png)      | ![GO](golang.png)       |
-| MongoDB                  | Node Js                | React Js                 | Solidity                       | GO                      |
-| ------------------------ | ---------------------- | ------------------------ | ------------------------------ | ----------------------- |
-|                          |                        |                          |
+|                         |                        |                          |                               |                       |
+| ----------------------- | ---------------------- | ------------------------ | ----------------------------- | --------------------- |
+| ![HTML5](html5.png)     | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png) | ![jQuery](jquery.png) |
+| HTML5                   | CSS3                   | Javascript               | Typescript                    | jQuery                |
+|                         |                        |                          |                               |                       |
+|                         |                        |                          |
+| ![MongoDB](mongodb.png) | ![Node Js](nodejs.png) | ![React Js](reactjs.png) | ![Solidity](solidity.png)     | ![GO](golang.png)     |
+| MongoDB                 | Node Js                | React Js                 | Solidity                      | GO                    |
+|                         |                        |                          |                               |                       |
+|                         |                        |                          |
