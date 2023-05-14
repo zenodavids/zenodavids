@@ -1,6 +1,6 @@
 # Hello, there 👋🏾!
 
-### **_I'm Chidozie, Versatile Software Engineer_** 👨🏽‍💻 **_with half a decade years wealth of experience in building, testing and deploying web applications. Skilled in creating visually appealing designs, and implementing responsive interfaces, with the ability to deliver projects on time and on budget. Proven track record in providing technical solutions to clients' needs and ensuring customer satisfaction._**
+### **_<span style="background: -webkit-linear-gradient(#eee, #333);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">I'm Chidozie, Versatile Software Engineer</span>_** 👨🏽‍💻 **_<span style="background: -webkit-linear-gradient(#eee, #333);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">with half a decade years wealth of experience in building, testing and deploying web applications. Skilled in creating visually appealing designs, and implementing responsive interfaces, with the ability to deliver projects on time and on budget. Proven track record in providing technical solutions to clients' needs and ensuring customer satisfaction.</span>_**
 
 ---
 
