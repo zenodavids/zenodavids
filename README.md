@@ -1,26 +1,14 @@
-### Hi there 👋
+Hello
 
+### **_Versatile Software Engineer with 5 years wealth of experiencein building, testing and deploying web applications. Skilled in creating visually appealing designs, and implementing responsive interfaces, with the ability to deliver projects on time and on budget_**
 
- is a ✨ _special_ ✨ 
- 
- ### Programming Languages
+### I'm proficient in the following programming languages:
 
-I'm proficient in the following programming languages:
-
-- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png =50x50)
+- ![Javascript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
+- ![GIT](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 - ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png =50x50)
 - ![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif =50x50)
 - ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png =50x50)
 - ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png =50x50)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### About Me
