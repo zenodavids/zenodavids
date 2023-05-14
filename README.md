@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-<!--
-**zenodavids/zenodavids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ is a ✨ _special_ ✨ 
+ 
+ ### Programming Languages
+
+I'm proficient in the following programming languages:
+
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png =50x50)
+- ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png =50x50)
+- ![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif =50x50)
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png =50x50)
+- ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png =50x50)
 
 Here are some ideas to get you started:
 
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
