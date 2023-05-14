@@ -6,12 +6,12 @@
 
 ### I'm proficient in the following programming languages:
 
-|                       |                        |                          |                               |                         |                        |     |
-| --------------------- | ---------------------- | ------------------------ | ----------------------------- | ----------------------- | ---------------------- | --- |
-| ![HTML5](html5.png)   | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png) | ![jQuery](jquery.png)   | ![Node.Js](nodejs.png) |
-| HTML5                 | CSS3                   | Javascript               | Typescript                    | jQuery                  | Node Js                |
+|                       |                        |                          |                               |                         |
+| --------------------- | ---------------------- | ------------------------ | ----------------------------- | ----------------------- |
+| ![HTML5](html5.png)   | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png) | ![jQuery](jquery.png)   |
+| HTML5                 | CSS3                   | Javascript               | Typescript                    | jQuery                  |
 |                       |                        |                          |
-| --------------------- | ---------------------- | ------------------------ | ----------------------------  | ----------------------- | ----------------       |
+| --------------------- | ---------------------- | ------------------------ | ----------------------------  | ----------------------- |
 | ![Javascript](js.png) | ![Node.Js](nodejs.png) | [solidity](solidity.png) |
 | \|escape pipe         | \`backtick             | data13                   |
 
