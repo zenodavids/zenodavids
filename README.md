@@ -6,20 +6,13 @@
 
 ### I'm proficient in the following programming languages:
 
-|                       |                        |                          |                               |                         |
-| --------------------- | ---------------------- | ------------------------ | ----------------------------- | ----------------------- |
-| ![HTML5](html5.png)   | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png) | ![jQuery](jquery.png)   |
-| HTML5                 | CSS3                   | Javascript               | Typescript                    | jQuery                  |
-|                       |                        |                          |
-| --------------------- | ---------------------- | ------------------------ | ----------------------------  | ----------------------- |
-| ![Javascript](js.png) | ![Node.Js](nodejs.png) | [solidity](solidity.png) |
-| \|escape pipe         | \`backtick             | data13                   |
-
-- ![Javascript](js.png)
-- ![Node.Js](nodejs.png)
-- ![solidity](solidity.png)
-- ![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif =50x50)
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png =50x50)
-- ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png =50x50)
-
-### About Me
+|                          |                        |                          |                                |                         |
+| ------------------------ | ---------------------- | ------------------------ | ------------------------------ | ----------------------- |
+| ![HTML5](html5.png)      | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png)  | ![jQuery](jquery.png)   |
+| HTML5                    | CSS3                   | Javascript               | Typescript                     | jQuery                  |
+| ---------------------    | ---------------------- | ------------------------ | ----------------------------   | ----------------------- |
+|                          |                        |                          |
+| ![MongoDB](mongodb.png)  | ![Node Js](nodejs.png) | ![React Js](reactjs.png) | ![Solidity](solidity.png)      | ![GO](golang.png)       |
+| MongoDB                  | Node Js                | React Js                 | Solidity                       | GO                      |
+| ------------------------ | ---------------------- | ------------------------ | ------------------------------ | ----------------------- |
+|                          |                        |                          |
