@@ -1,7 +1,7 @@
 # Hello, there 👋🏾!
 ### Below is the stats for my PUBLIC repos;
 
-![Zeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenodavids&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=vision-friendly-dark)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true&theme=dark"
@@ -13,6 +13,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true" />
 </picture>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### I'm proficient in the following programming Technologies:
