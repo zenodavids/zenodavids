@@ -18,20 +18,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8)](https://github.com/zenodavids/github-readme-stats)
 ---
 
-### I'm proficient in the following programming Technologies:
+[![Zeno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/zenodavids/github-readme-stats)
 
-|                         |                        |                          |                               |                    |
-| ----------------------- | ---------------------- | ------------------------ | ----------------------------- | ------------------ |
-| ![HTML5](html5.png)     | ![CSS3](css3.png)      | ![Javascript](js.png)    | ![Typescript](typescript.png) | ![jQy](jquery.png) |
-| HTML5                   | CSS3                   | Javascript               | Typescript                    | jQuery             |
-|                         |                        |                          |                               |                    |
-| ![MongoDB](mongodb.png) | ![Node Js](nodejs.png) | ![React Js](reactjs.png) | ![Solidity](solidity.png)     | ![GO](golang.png)  |
-| MongoDB                 | Node Js                | React Js                 | Solidity                      | GO                 |
-|                         |                        |                          |                               |                    |
-| ![GIT](git.png)         | ![API](api.png)        | ![Dev Ops](devops.png)   | ![TSol](tsol.png)             | ![Rust](rust.png)  |
-| GIT                     | RestFUL API            | Dev Ops                  | Threaded Solidity             | Rust               |
-|                         |                        |                          |
 
+---
 ## I've been Certified in the following fields;
 
 The App Brewery, - The App Brewery
