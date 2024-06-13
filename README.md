@@ -1,4 +1,5 @@
 # Hello, there 👋🏾!
+### Below is the stats for my PUBLIC repos;
 
 ![Zeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenodavids&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=vision-friendly-dark)
 <picture>
