@@ -1,7 +1,11 @@
 # Hello, there 👋🏾 I'm Zeno!
+
 ### Below are the stats for my PUBLIC repos;
 
+---
+[![Zeno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zenodavids&theme=react-dark)](https://github.com/zenodavids/github-readme-activity-graph)
 
+---
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true&theme=dark"
@@ -13,9 +17,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true" />
 </picture>
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8)](https://github.com/zenodavids/github-readme-stats)
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
