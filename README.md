@@ -15,7 +15,7 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids)](https://github.com/zenodavids/github-readme-stats)
 ---
 
 ### I'm proficient in the following programming Technologies:
