@@ -27,3 +27,10 @@
 <a href="https://github.com/zenodavids/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenodavids&repo=convoychat" />
 </a>
+
+<a href="https://github.com/zenodavids/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenodavids&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/zenodavids/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zenodavids&repo=convoychat" />
+</a>
