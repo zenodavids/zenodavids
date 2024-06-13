@@ -18,6 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8)](https://github.com/zenodavids/github-readme-stats)
 
 
-[![Zeno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zenodavids)](https://github.com/zenodavids/github-readme-stats)
-
 
