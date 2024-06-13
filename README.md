@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/zenodavids/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8)](https://github.com/zenodavids/github-readme-stats" />
 </a>
 ---
 
