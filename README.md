@@ -1,7 +1,6 @@
 # Hello, there 👋🏾!
 
-## _I'm Chidozie, a Versatile Software Developer_ 👨🏽‍💻 _with half a decade years wealth of experience in building, testing and deploying web applications.**An amazingly fast Learner**, Skilled in creating visually appealing designs, and implementing responsive interfaces, with the ability to deliver projects on time and on budget. Proven track record in providing technical solutions to clients' needs and ensuring customer satisfaction._
-
+![Zeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenodavids&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ### I'm proficient in the following programming Technologies:
