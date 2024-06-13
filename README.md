@@ -1,5 +1,5 @@
-# Hello, there 👋🏾!
-### Below is the stats for my PUBLIC repos;
+# Hello, there 👋🏾 I'm Zeno!
+### Below are the stats for my PUBLIC repos;
 
 
 <picture>
@@ -17,5 +17,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8)](https://github.com/zenodavids/github-readme-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
