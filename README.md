@@ -4,7 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenodavids&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
