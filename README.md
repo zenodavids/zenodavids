@@ -2,12 +2,7 @@
 
 ### Below are the stats for my PUBLIC repos;
 
----
 
-
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
----
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
@@ -26,6 +21,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true" />
 </picture>
 
+
+---
+
+
+---
+
+
+![Metrics](https://metrics.lecoq.io/?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FLagos)
+
+---
 
 ---
 
