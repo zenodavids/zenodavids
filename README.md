@@ -10,7 +10,7 @@ I'm a passionate software developer with expertise in [Your Expertise, e.g., Ful
 ### Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
-### GitHub Profile Summary
+### GitHub Profile Summary for PUBLIC Repos only.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zenodavids&show_icons=true&theme=dark"
