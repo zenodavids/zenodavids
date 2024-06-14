@@ -3,9 +3,9 @@
 ### Below are the stats for my PUBLIC repos;
 
 ---
-![](https://komarev.com/ghpvc/?zenodavids=your-github-zenodavids&color=blue)
 
-[GitHub Profile Views Counter]: https://github.com/zenodavids/github-profile-views-counter
+
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
 ---
 
