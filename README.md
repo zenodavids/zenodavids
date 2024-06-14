@@ -24,7 +24,8 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?zenodavids=zenodavids&color=blue)
+![Profile views](https://gpvc.arturio.dev/zenodavids)
+
 
 ---
 
