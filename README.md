@@ -1,6 +1,9 @@
 # Hello, there 👋🏾 I'm Zeno!
 
+
 ### Below are the stats for my PUBLIC repos;
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zenodavids&color=blue)
 
 ![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
 
