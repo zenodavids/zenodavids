@@ -30,5 +30,11 @@ I'm a passionate software developer with expertise in [Your Expertise, e.g., Ful
 ### GitHub Profile Summary Cards
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenodavids&theme=default)
 
+### GitHub Profile Summary Cards
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenodavids&theme=default)
+
+### Contribution Graph
+[![Zeno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zenodavids&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### GitHub Metrics
-![Metrics](https://metrics.lecoq.io/zenodavids?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&repositories=1&repositories=100&repositories.batch=100&achievements.threshold=C&repositories.affiliations=owner,collaborator&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&stars.limit=4&followup.sections=your-followers,following-you&projects.limit=4&projects.descriptions=true&activity.limit=4&activity.days=14&activity.filter=all&achievements.limit=6&achievements.secrets=true&achievements.display=detailed&achievements.ignored=undefined&repositories.pinned=0&repositories.forks=true&repositories.affiliations=owner,collaborator&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/zenodavids?template=classic&repositories=100&repositories.batch=100&repositories.affiliations=owner,collaborator&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&activity=1&achievements=1&repositories=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&stars.limit=4&followup.sections=your-followers,following-you&projects.limit=4&projects.descriptions=true&activity.limit=4&activity.days=14&activity.filter=all&achievements.limit=6&achievements.secrets=true&achievements.display=detailed&achievements.ignored=undefined&repositories.pinned=0&repositories.forks=true&repositories.affiliations=owner,collaborator&config.timezone=Europe%2FLondon)
