@@ -5,9 +5,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenodavids&theme=react-dark)
-
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
