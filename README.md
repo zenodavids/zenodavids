@@ -3,8 +3,12 @@
 ### Below are the stats for my PUBLIC repos;
 
 ---
-![GitHub Contribution Snake](https://github.com/zenodavids/zenodavids/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?zenodavids=your-github-zenodavids&color=green)
 
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
 ---
 <picture>
@@ -24,5 +28,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
 
