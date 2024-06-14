@@ -2,6 +2,7 @@
 
 ### Below are the stats for my PUBLIC repos;
 
+![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
 
 
 
