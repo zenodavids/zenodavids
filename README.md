@@ -26,4 +26,8 @@ I'm a passionate software developer with expertise in [Your Expertise, e.g., Ful
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8&hide_progress=true)](https://github.com/zenodavids/github-readme-stats)
 
+## Recent Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenodavids&theme=react-dark)
+
 ---
