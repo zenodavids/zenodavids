@@ -22,13 +22,6 @@
 </picture>
 
 
----
-
-![Profile views](https://gpvc.arturio.dev/zenodavids)
-
-
----
-
 
 
 
