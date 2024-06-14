@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
 
-[![Zeno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zenodavids&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zeno's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zenodavids&theme=react-dark)](https://github.com/zenodavids/github-readme-activity-graph)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
