@@ -40,7 +40,7 @@ Upload financial documents → receive automated tax optimization insights, budg
 ---
 
 ### 2 · Skincare Ingredient Analyzer
-Scan cosmetic product ingredients → detect conflicts, get personalized recommendations, access 500+ entry ingredient dictionary. Multi-language support.
+Scan cosmetic product → detect conflicts, get personalized recommendations, access 500+ entry ingredient dictionary. Multi-language support.
 
 `Next.js` · `MongoDB` · `AI Pipeline` · `i18n`
 
