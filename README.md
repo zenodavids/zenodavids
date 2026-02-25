@@ -29,7 +29,7 @@ AI Integration       ██████████████████░�
 MongoDB / PostgreSQL ██████████████████░░░   85%
 Firebase             █████████████████░░░░   80%
 Docker / DevOps      ███████████████░░░░░░   70%
-
+```
 ### 🚀 Production SaaS Platforms I've Built Solo
 	
 #### 1	Financial Document AI	Upload bills →
@@ -75,4 +75,4 @@ Prisma
 
 Currently building with AI · Looking for my next challenge in Luxembourg 🇱🇺
 
-</div> `
+</div>
