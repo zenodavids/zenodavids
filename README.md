@@ -30,8 +30,6 @@ MongoDB / PostgreSQL ██████████████████░�
 Firebase             █████████████████░░░░   80%
 Docker / DevOps      ███████████████░░░░░░   70%
 ```
-### 🚀 Production SaaS Platforms I've Built Solo
-	
 ## Production SaaS Platforms — Built & Shipped Independently
 
 ### 1 · Financial Document AI
@@ -48,15 +46,28 @@ Scan cosmetic product ingredients → detect conflicts, get personalized recomme
 
 ---
 
-### 3 · Dynamic QR Product Passport
-Generate editable QR codes for products, health records, restaurants, and fashion items. Content updates without QR regeneration. SVG & PNG export.
+### 3 · MarketMind AI
+Quiz-driven competitor analysis and market positioning tool with auto-generated chart visualizations. Built on a 9-step research framework.
 
-`Next.js` · `Firebase` · `SVG Generation` · `Dashboard`
+`Next.js` · `Gemini AI` · `Chart.js` · `Analytics`
 
 ---
 
-### 4 · MarketMind AI
-Quiz-driven competitor analysis and market positioning tool with auto-generated chart visualizations. Built on a 9-step research framework.
+### 4 · AI Book Summarizer
+Finance and motivational literature → structured, actionable takeaway cards with categorized insights and custom prompt chains.
+
+`Next.js` · `Gemini AI` · `Prompt Engineering`
+
+---
+
+### 5 · AI E-Commerce Store
+AI-guided product sourcing, pricing strategy, and competitive positioning platform for reselling businesses.
+
+`Next.js` · `MongoDB` · `Gemini AI` · `Stripe`
+
+---
+
+> ✅ **All platforms include:** Authentication · Payment integration · Responsive design · Production deployment on Vercel
 
 ### 🏢 Where I've Worked
 Grandida LLC (Florida, US) — Software Engineer — Web3 dApps, smart contracts
