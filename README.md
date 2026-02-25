@@ -1,20 +1,31 @@
-# Hello there 👋🏾 I'm Zeno!
+<div align="center">
 
-I'm a passionate software developer with expertise in Full-Stack Development. I enjoy building innovative solutions and contributing to open-source projects.
+# Hey, I'm Zeno 👋🏾
 
-## 📊 GitHub Stats
+### Senior Full-Stack Developer · AI-Powered SaaS Architect
 
-![Visitor Count](https://komarev.com/ghpvc/?username=zenodavids&color=blue)
-![Profile views](https://komarev.com/ghpvc/?username=zenodavids&color=blueviolet)
+I build intelligent web applications that solve real problems — from financial document analysis to dynamic digital product passports. 5+ years shipping production code across fintech, healthcare, e-commerce, and AI domains.
 
-### Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zenodavids)](https://git.io/streak-stats)
+Currently open to opportunities in **Luxembourg / EU** 🇱🇺
 
+---
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodavids&layout=donut&langs_count=8&hide_progress=true)](https://github.com/zenodavids/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chidozieezeanekwe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chidozie.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidozieezeanekwe@gmail.com)
 
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenodavids&margin-w=5&theme=algolia)](https://github.com/zenodavids/github-profile-trophy)
+</div>
 
+---
 
+### 🧠 What I Do
+
+```text
+SaaS Architecture    ████████████████████░   95%
+React / Next.js      ████████████████████░   95%
+TypeScript           ███████████████████░░   90%
+Node.js / Express    ███████████████████░░   90%
+AI Integration       ██████████████████░░░   85%
+MongoDB / PostgreSQL ██████████████████░░░   85%
+Firebase             █████████████████░░░░   80%
+Docker / DevOps      ███████████████░░░░░░   70%
