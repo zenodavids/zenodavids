@@ -32,41 +32,31 @@ Docker / DevOps      ███████████████░░░░�
 ```
 ### 🚀 Production SaaS Platforms I've Built Solo
 	
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    🚀 PRODUCTION SAAS PLATFORMS                        │
-│                      Built & Shipped Solo                              │
-├────┬──────────────────────────┬─────────────────────────┬──────────────┤
-│ #  │ Platform                 │ What It Does            │ Tech Stack   │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │                          │ Upload bills → get tax  │ Next.js 14   │
-│ 1  │ Financial Document AI    │ insights, budget advice, │ Gemini AI    │
-│    │                          │ data extraction         │ Firebase     │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │ Skincare Ingredient      │ Scan cosmetic           │ Next.js      │
-│ 2  │ Analyzer                 │ ingredients →           │ MongoDB      │
-│    │                          │ conflicts,              │ AI Pipeline  │
-│    │                          │ recommendations,        │              │
-│    │                          │ dictionary              │              │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │ Dynamic QR Product       │ Editable QR codes for   │ Next.js      │
-│ 3  │ Passport                 │ products, health,       │ Firebase     │
-│    │                          │ restaurants, fashion    │ SVG Gen      │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │                          │ Quiz-driven competitor  │ Next.js      │
-│ 4  │ MarketMind AI            │ analysis & market       │ Gemini AI    │
-│    │                          │ positioning             │ Chart.js     │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │                          │ Finance/motivation      │ Next.js      │
-│ 5  │ AI Book Summarizer       │ books → actionable      │ AI Prompt    │
-│    │                          │ takeaway engine         │ Engineering  │
-├────┼──────────────────────────┼─────────────────────────┼──────────────┤
-│    │                          │ AI-guided product       │ Next.js      │
-│ 6  │ AI E-Commerce Store      │ sourcing & reselling    │ MongoDB      │
-│    │                          │ strategy                │ Gemini AI    │
-├────┴──────────────────────────┴─────────────────────────┴──────────────┤
-│  ✅ All platforms include: authentication, payment integration,       │
-│     responsive design, and production deployment.                     │
-└───────────────────────────────────────────────────────────────────────-─┘
+## Production SaaS Platforms — Built & Shipped Independently
+
+### 1 · Financial Document AI
+Upload financial documents → receive automated tax optimization insights, budget recommendations, and structured data extraction across 5 analysis modes.
+
+`Next.js 14` · `Gemini AI` · `Firebase` · `Image Processing`
+
+---
+
+### 2 · Skincare Ingredient Analyzer
+Scan cosmetic product ingredients → detect conflicts, get personalized recommendations, access 500+ entry ingredient dictionary. Multi-language support.
+
+`Next.js` · `MongoDB` · `AI Pipeline` · `i18n`
+
+---
+
+### 3 · Dynamic QR Product Passport
+Generate editable QR codes for products, health records, restaurants, and fashion items. Content updates without QR regeneration. SVG & PNG export.
+
+`Next.js` · `Firebase` · `SVG Generation` · `Dashboard`
+
+---
+
+### 4 · MarketMind AI
+Quiz-driven competitor analysis and market positioning tool with auto-generated chart visualizations. Built on a 9-step research framework.
 
 ### 🏢 Where I've Worked
 Grandida LLC (Florida, US) — Software Engineer — Web3 dApps, smart contracts
