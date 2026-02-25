@@ -32,14 +32,41 @@ Docker / DevOps      ███████████████░░░░�
 ```
 ### 🚀 Production SaaS Platforms I've Built Solo
 	
-#### 1	Financial Document AI	Upload bills →
-get tax insights, budget advice, data extraction.	**Next.js 14, Gemini AI, Firebase**
-#### 2	Skincare Ingredient Analyzer	Scan cosmetic ingredients → conflicts, recommendations, dictionary	Next.js, MongoDB, AI pipeline
-#### 3	Dynamic QR Product Passport	Editable QR codes for products, health, restaurants, fashion	Next.js, Firebase, SVG generation
-#### 4	MarketMind AI	Quiz-driven competitor analysis & market positioning	Next.js, Gemini AI, Chart.js
-#### 5	AI Book Summarizer	Finance/motivation books → actionable takeaway engine	Next.js, AI prompt engineering
-#### 6	AI E-commerce Store	AI-guided product sourcing & reselling strategy	Next.js, MongoDB, Gemini AI
-All platforms include: authentication, payment integration, responsive design, and production deployment.
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    🚀 PRODUCTION SAAS PLATFORMS                        │
+│                      Built & Shipped Solo                              │
+├────┬──────────────────────────┬─────────────────────────┬──────────────┤
+│ #  │ Platform                 │ What It Does            │ Tech Stack   │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │                          │ Upload bills → get tax  │ Next.js 14   │
+│ 1  │ Financial Document AI    │ insights, budget advice, │ Gemini AI    │
+│    │                          │ data extraction         │ Firebase     │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │ Skincare Ingredient      │ Scan cosmetic           │ Next.js      │
+│ 2  │ Analyzer                 │ ingredients →           │ MongoDB      │
+│    │                          │ conflicts,              │ AI Pipeline  │
+│    │                          │ recommendations,        │              │
+│    │                          │ dictionary              │              │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │ Dynamic QR Product       │ Editable QR codes for   │ Next.js      │
+│ 3  │ Passport                 │ products, health,       │ Firebase     │
+│    │                          │ restaurants, fashion    │ SVG Gen      │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │                          │ Quiz-driven competitor  │ Next.js      │
+│ 4  │ MarketMind AI            │ analysis & market       │ Gemini AI    │
+│    │                          │ positioning             │ Chart.js     │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │                          │ Finance/motivation      │ Next.js      │
+│ 5  │ AI Book Summarizer       │ books → actionable      │ AI Prompt    │
+│    │                          │ takeaway engine         │ Engineering  │
+├────┼──────────────────────────┼─────────────────────────┼──────────────┤
+│    │                          │ AI-guided product       │ Next.js      │
+│ 6  │ AI E-Commerce Store      │ sourcing & reselling    │ MongoDB      │
+│    │                          │ strategy                │ Gemini AI    │
+├────┴──────────────────────────┴─────────────────────────┴──────────────┤
+│  ✅ All platforms include: authentication, payment integration,       │
+│     responsive design, and production deployment.                     │
+└───────────────────────────────────────────────────────────────────────-─┘
 
 ### 🏢 Where I've Worked
 Grandida LLC (Florida, US) — Software Engineer — Web3 dApps, smart contracts
